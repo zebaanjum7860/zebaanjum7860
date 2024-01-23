@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeba Anjum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDd6FUidC1LgrwsMuuNj_2DfOdYKv7vzVY-fZ0CU_GRQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zebaanjum7860&label=Profile%20views&color=0e75b6&style=flat" alt="zebaanjum7860" /> </p>
 
