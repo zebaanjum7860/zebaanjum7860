@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zebaanjum7860&label=Profile%20views&color=0e75b6&style=flat" alt="zebaanjum7860" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full-stack Development**
 
 - 📫 How to reach me **zebaanjum003@gmail.com**
 
@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zebaanjum7860&label=Profile%20views&color=0e75b6&style=flat" alt="zebaanjum7860" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full-stack Development**
 
 - 📫 How to reach me **zebaanjum003@gmail.com**
 
